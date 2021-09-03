@@ -1,5 +1,7 @@
 # APP_Streamlit_Neumonia
 Es un aplicativo que permite generar predicciones de neumonía, identificando opacidades pulmonares asociadas a la enfermedad, segmentado y generando cuadros delimitadores para opacidades identificadas en imágenes de RX.
+En el siguiente enlace podemos observar el funcionamiento del predictor.
+https://youtu.be/G41LbEk8uyk
 # Modelos entrenados
  Accede al enlace de google drive, donde se encuentran los tres modelos.
  enlace:https://drive.google.com/drive/folders/1b8A0pd_qPt1wyvlVyqgVFBevS71uK7BL?usp=sharing
